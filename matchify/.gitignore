@@ -35,7 +35,8 @@ yarn-error.log*
 .env.local
 # vercel
 .vercel
-
+.idea*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+Movie_Night_Matcher_Project_Blueprint.docx
